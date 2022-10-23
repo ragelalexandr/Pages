@@ -1,0 +1,17 @@
+html{
+    align-items: center;
+    
+}
+
+body{
+    background-color: aqua;
+    
+}
+
+.wrapper{
+    background-color: #ec952a;
+    align-items: center;
+    text-align: center;
+    padding: 1%;
+    font: size 50%;
+}
