@@ -4,14 +4,27 @@ html{
 }
 
 body{
-    background-color: aqua;
+    background-color: black;
     
 }
 
 .wrapper{
-    background-color: #ec952a;
+    background-color: white;
     align-items: center;
     text-align: center;
-    padding: 1%;
+    padding: 2%;
     font: size 50%;
+    border-radius: 5px 5px;
+    
+}
+
+.button{
+    background-color: blueviolet;
+    align-items: center;
+    text-align: right;
+    margin: 10%;
+    padding: 5%;
+    font: size 50%;
+    border-radius: 10px;
+
 }
