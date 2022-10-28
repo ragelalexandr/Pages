@@ -1,90 +1,60 @@
 html{
-
-}
-
-
-
-body{
     font-family: monospace;
 }
 
-header{
+body{
     
-    width: 100%;
-
 }
 
-.first{
-    width: 100%;
-    height: 100%;
+a{
+text-decoration: none !important;
+border: none !important;
+}
+
+header{
+
 }
 
 h1{
+    text-align: center;
     font-size: 300%;
 }
 
+.row{
+
+}
+
 .button{
+    text-align: center;
+    display: inline-block;
     background-color: green;
-
-    display: inline-flex;
-
-    height: 50px;
-    width:  160px;
-
-    text-align: right;
-    color: white;
-
-    height: 50px;
-    width:  160px;
-
-    margin-top: 2%;
-    margin-right: 2%;
-
+    width: 29%;
+    margin: 1%;
     border-color: green;
-    border-width: 1px;
-    border-style:groove;
-    border-radius: 1em;
-    border: solid;
-
-    font-size: 100%;    
+    border-style: groove;
+    border-radius: 3%;
+    
+    
+}
+.button:active{
+    background-color: darkgreen;
 }
 
 .button-paragraph{
-    text-align: center;
+    color: white;
+    font-weight: bold;
+    border-radius: 2%;
 
-    margin: auto;
+    
 }
 
 .card{
-    background-color: white;
-
-    display: inline-flex;
-
-    height: 50px;
-    width:  160px;
-
-    margin-top: 2%;
-    margin-right: 2%;
-
-    text-align: left;
-    
-    border-color: black;
-    border-width: 1px;
-    border-style:groove;
-    border-radius: 1em;
-    border: solid;
-    
-    font-size: 100%;    
-}
-
-.card-paragraph{
     text-align: center;
-
-    margin: auto;
-}
-
-.card-image{
-    align-items: center;
-
-    margin: auto;
+    display: inline-block;
+    background-color: white;
+    width: 29%;
+    margin: 1%;
+    border-color: black;
+    border-style: groove;
+    border-radius: 2%;
 }
