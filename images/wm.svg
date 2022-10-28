@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg viewBox="0 0 500 500" xmlns="http://www.w3.org/2000/svg">
+  <rect x="67.496" y="89.698" width="346.359" height="353.464" style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);"/>
+  <ellipse style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);" cx="248.668" cy="262.877" rx="92.362" ry="92.362"/>
+  <ellipse style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);" cx="-373.89" cy="-124.334" rx="18.65" ry="18.65" transform="matrix(-1, 0, 0, -1, 0, 0)"/>
+  <rect x="77.265" y="100.355" width="106.572" height="66.607" style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);"/>
+  <ellipse style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);" cx="-325.932" cy="-103.908" rx="7.993" ry="7.993" transform="matrix(-1, 0, 0, -1, 0, 0)"/>
+  <ellipse style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);" cx="-297.513" cy="-103.02" rx="7.993" ry="7.993" transform="matrix(-1, 0, 0, -1, 0, 0)"/>
+  <ellipse style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);" cx="-270.87" cy="-103.908" rx="7.993" ry="7.993" transform="matrix(-1, 0, 0, -1, 0, 0)"/>
+  <ellipse style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);" cx="-246.004" cy="-103.908" rx="7.993" ry="7.993" transform="matrix(-1, 0, 0, -1, 0, 0)"/>
+  <rect x="86.146" y="110.124" width="87.922" height="13.321" style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);"/>
+  <rect x="67.496" y="382.771" width="344.583" height="0.888" style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);"/>
+</svg>
