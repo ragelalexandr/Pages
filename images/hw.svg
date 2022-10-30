@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg viewBox="0 0 500 500" xmlns="http://www.w3.org/2000/svg">
+  <rect x="158.97" y="46.181" width="213.144" height="396.092" style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);"/>
+  <ellipse style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);" cx="215.364" cy="391.208" rx="7.549" ry="7.549"/>
+  <ellipse style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);" cx="242.007" cy="395.204" rx="7.549" ry="7.105"/>
+  <ellipse style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);" cx="263.766" cy="397.425" rx="5.329" ry="5.773"/>
+  <ellipse style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);" cx="281.083" cy="396.536" rx="6.661" ry="5.773"/>
+  <ellipse style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);" cx="303.73" cy="390.32" rx="6.217" ry="5.773"/>
+  <rect x="222.025" y="411.19" width="79.041" height="18.65" style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);"/>
+  <path style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);" d="M 206.927 72.824 L 208.703 333.037 L 323.269 332.149"/>
+  <polyline style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);" points="319.716 330.373 317.94 71.936 207.815 71.936"/>
+</svg>
