@@ -7,8 +7,8 @@ body{
 }
 
 a{
-text-decoration: none !important;
-border: none !important;
+text-decoration: none;
+color: black;
 }
 
 header{
